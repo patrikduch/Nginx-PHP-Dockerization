@@ -2,7 +2,7 @@
 
 ## Stop docker container
 
-docker stop "<containerName>"
+docker stop <containerName>
 
 ## Compose docker services
 
